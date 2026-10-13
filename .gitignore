@@ -1,0 +1,31 @@
+# Local notes
+0_my_files/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment created in this folder
+Include/
+Lib/
+Scripts/
+share/
+etc/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit
+.streamlit/cache/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
